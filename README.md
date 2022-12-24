@@ -38,7 +38,7 @@
 
 <br>
 
-<div>
+<div align="center">
 <b>🛠Tools🛠</b>
   </div>
   <div align="center">
