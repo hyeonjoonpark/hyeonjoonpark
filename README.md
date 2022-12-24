@@ -19,9 +19,6 @@
 
 ---
 
-<div align="left">
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyeonjoonpark&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
-
 <div align="center"> 
 <b>📖Language📖</b>
 </div>
