@@ -37,11 +37,8 @@
   <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
 
 <br>
-<div align="center"> 
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <b>🛠Tools🛠</b>
-</div>
   <div align="center">
 <img src="https://img.shields.io/badge/Visual Studio code-24acf2?style=flat-round&logo=visualstudiocode&logoColor=white"/>
 <img src="https://img.shields.io/badge/IntelliJ-darkblue?style=flat-round&logo=intelliJ&logoColor=white"/>
