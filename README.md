@@ -29,10 +29,10 @@
   <img src="https://img.shields.io/badge/Javascript-e4e94f?style=for-the-badge&logo=javascript&logoColor=white">
   <img src="https://img.shields.io/badge/Node.js-02a100?style=for-the-badge&logo=node.js&logoColor=white">
   <img src="https://img.shields.io/badge/Oracle-d3a102?style=for-the-badge&logo=oracle&logoColor=white">
-  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
   <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
-  <img src="https://img.shields.io/badge/react-#61DAFB?style=for-the-badge&logo=react&logoColor=white">
+  <img src="https://img.shields.io/badge/React-#61DAFB?style=for-the-badge&logo=react&logoColor=white">
 
 <br><br>
 
