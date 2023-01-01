@@ -34,7 +34,9 @@
   <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
   <img src="https://img.shields.io/badge/React-#61DAFB?style=for-the-badge&logo=react&logoColor=white">
 
-<br><br>
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kimclick&layout=compact&theme=onedark"/>  
+<br>
 
 <div align="center">
 <b>🛠Tools🛠</b>
