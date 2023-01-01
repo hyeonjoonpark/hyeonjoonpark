@@ -13,7 +13,7 @@
 ---
 
 <div align="left">
-<b>hyeonjoonpark<br>SoftWare Developer</b>
+<b>hyeonjoonpark<br>SoftWare Developer</b><br>
   <b>Email : pjjoon1379@gmail.com</b>
 </div>
 
