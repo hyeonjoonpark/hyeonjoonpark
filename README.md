@@ -23,6 +23,7 @@
 <div align="center"> 
 <b>📖Language📖</b>
 </div>
+<div>
   <img src="https://img.shields.io/badge/C-00daf2?style=for-the-badge&logo=C&logoColor=white">
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/css3-ff00ff?style=for-the-badge&logo=css3&logoColor=white">
@@ -33,8 +34,10 @@
   <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
   <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
   <img src="https://img.shields.io/badge/React-#61DAFB?style=for-the-badge&logo=react&logoColor=white">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kimclick&layout=compact&theme=onedark"/>  
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kimclick&layout=compact&theme=onedark"/> 
+</div>
+ 
 <br>
 
 <div align="center">
