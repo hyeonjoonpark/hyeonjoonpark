@@ -45,7 +45,6 @@
 <img src="https://img.shields.io/badge/Visual Studio code-24acf2?style=flat-round&logo=visualstudiocode&logoColor=white"/>
 <img src="https://img.shields.io/badge/IntelliJ-darkblue?style=flat-round&logo=intelliJ&logoColor=white"/>
 <img src="https://img.shields.io/badge/Android Studio-24acf2?style=flat-round&logo=androidstudio&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL workbench-24acf2?style=flat-round&logo=mysqlworkbench&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-orange?style=flat-round&logo=Git&logoColor=white"/>
 <img src="https://img.shields.io/badge/Github-black?style=flat-round&logo=Github&logoColor=white"/>
 <img src="https://img.shields.io/badge/linux-red?style=flat-round&logo=linux&logoColor=black"> 
