@@ -23,7 +23,7 @@
 <div align="center"> 
 <b>📖Language📖</b>
 </div>
-<div>
+<div align="center">
   <img src="https://img.shields.io/badge/C-00daf2?style=for-the-badge&logo=C&logoColor=white">
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/css3-ff00ff?style=for-the-badge&logo=css3&logoColor=white">
