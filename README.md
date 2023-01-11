@@ -12,8 +12,9 @@
 ---
 
 <div align="left">
-<b>hyeonjoonpark<br>SoftWare Developer</b><br>
+  <b>hyeonjoonpark<br>SoftWare Developer</b><br>
   <b>Email : pjjoon1379@gmail.com</b>
+  <b><a href="https://www.notion.so/4eda0ae435f348428da1d2ecd81022ad">Notion</a></b>
 </div>
 
 ---
