@@ -1,4 +1,4 @@
-<img src="https://github-readme-stats.vercel.app/api?username=hyeonjoonpark&show_icons=true&theme=radical">
+<img src="https://github-readme-stats.vercel.app/api?username=hyeonjoonpark&show_icons=true&theme=radical" align="right">
   <div align="center">
 
   ### <b> hyeonjoonpark </b> 
