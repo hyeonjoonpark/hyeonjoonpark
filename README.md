@@ -2,7 +2,7 @@
   <div align="center">
 
   ### <b> hyeonjoonpark </b> 
-  ### <p>BSSM22</p>
+  ### <p>BSSM 2022</p>
 
 
 <a href="https://github.com/hyeonjoonpark"></a>
