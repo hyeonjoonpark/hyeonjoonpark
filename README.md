@@ -39,7 +39,7 @@
   <img src="https://img.shields.io/badge/Dart-343939?style=for-the-badge&logo=dart&logoColor=black">
   <img src="https://img.shields.io/badge/MySQL-ac4534?style=for-the-badge&logo=mysql&logoColor=black">
   <br>
-  
+  <hr>
 <div align="center">
   <br><br>
 <b>🛠Tools🛠</b>
