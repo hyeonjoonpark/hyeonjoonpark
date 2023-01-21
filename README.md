@@ -41,10 +41,9 @@
   <br>
   <hr>
 <div align="center">
-  <br><br>
+  <br>
 <b>🛠Tools🛠</b>
   </div>
-  <br>
   <div align="center">
 <img src="https://img.shields.io/badge/Visual Studio code-24acf2?style=flat-round&logo=visualstudiocode&logoColor=white"/>
 <img src="https://img.shields.io/badge/IntelliJ-darkblue?style=flat-round&logo=intelliJ&logoColor=white"/>
