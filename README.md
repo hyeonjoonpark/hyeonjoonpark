@@ -1,7 +1,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=hyeonjoonpark&show_icons=true&theme=tokyonight" align="right">
   <div align="center">
   
----
 
   ### <b> hyeonjoonpark </b> 
   ### <p>BSSM 2022</p>
@@ -10,6 +9,9 @@
 <a href="https://github.com/hyeonjoonpark"></a>
   <a href="https://www.instagram.com/jjoon1379/"><img src="https://img.shields.io/badge/Instagram-FF0080?style=flat-round&logo=instagram&logoColor=white"/>
 </a>
+
+---
+
 </div>
 
 ---
