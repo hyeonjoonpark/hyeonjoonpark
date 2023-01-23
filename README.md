@@ -11,6 +11,7 @@
 </a>
 
 ---
+If you want to contact me Pls refer to under the SNS
 
 </div>
 
