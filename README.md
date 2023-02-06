@@ -11,7 +11,7 @@
 </a>
 
 ---
-If you want to contact me Pls refer to My SNS
+If you want to contact me Pls refer to My SNS.
 
 </div>
 
