@@ -18,7 +18,7 @@ If you want to contact me Pls refer to My SNS.
 ---
 
 <div align="left">
-  <b>hyeonjoonpark<br>SoftWare Developer</b><br>
+  <b>hyeonjoonpark<br>FullStack(?) SoftWare Developer</b><br>
   <b>Email : pjjoon1379@gmail.com</b><br>
   <b><a href="https://www.notion.so/4eda0ae435f348428da1d2ecd81022ad">Notion</a></b>
 </div>
