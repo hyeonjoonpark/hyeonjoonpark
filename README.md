@@ -20,7 +20,7 @@ If you want to contact me Pls refer to My SNS.
 <div align="left">
   <b>hyeonjoonpark<br>FullStack(?) SoftWare Developer</b><br>
   <b>Email : pjjoon1379@gmail.com</b><br>
-  <b><a href="https://www.notion.so/4eda0ae435f348428da1d2ecd81022ad">Notion</a></b>
+  <b><a href="[https://www.notion.so/4eda0ae435f348428da1d2ecd81022ad](https://fancy-engineer-1ca.notion.site/6c63d91243094dc0b0d81839ea648815?pvs=4)">Notion</a></b>
 </div>
 
 ---
