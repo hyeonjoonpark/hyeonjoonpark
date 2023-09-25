@@ -50,6 +50,16 @@ If you want to contact me Pls refer to My SNS.
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
 </div>
 <br>
+
+<div align="center">
+<b>🖥️DevOps🖥️</b>
+</div>
+<div align="center">
+  <img src="https://img.shields.io/badge/MySQL-ac4534?style=for-the-badge&logo=mysql&logoColor=black">
+  <img src="https://img.shields.io/badge/ORACLE-F80000?style=flat-square&logo=oracle&logoColor=white"/>
+</div>
+<br>
+
   <div align="center">
 <b>🛠Tools🛠</b>
   </div>
@@ -65,15 +75,7 @@ If you want to contact me Pls refer to My SNS.
 <img src="https://img.shields.io/badge/linux-red?style=flat-round&logo=linux&logoColor=black"> 
   </div>
   <br>
-  <div align="center">
-<b>🖥️DevOps🖥️</b>
-  </div>
-  <div align="center">
-    <img src="https://img.shields.io/badge/MySQL-ac4534?style=for-the-badge&logo=mysql&logoColor=black">
-    <img src="https://img.shields.io/badge/ORACLE-F80000?style=flat-square&logo=oracle&logoColor=white"/>
-- PHP
-  </div>
-<br>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyeonjoonpark&layout=compact&theme=onedark"/>
   <img src="https://img.shields.io/badge/Oracle-d3a102?style=for-the-badge&logo=oracle&logoColor=white">
