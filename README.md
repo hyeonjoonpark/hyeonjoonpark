@@ -47,9 +47,12 @@ If you want to contact me Pls refer to My SNS.
   <img src="https://img.shields.io/badge/MySQL-ac4534?style=for-the-badge&logo=mysql&logoColor=black">
   <br>
   <hr>
-<div align="center">
+</div>
 <div align="center">
 <b>💻Frameworks💻</b>
+</div>
+<div align="center">
+
 </div>
 <b>🛠Tools🛠</b>
   </div>
