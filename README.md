@@ -34,7 +34,7 @@ If you want to contact me Pls refer to My SNS.
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/css3-ff00ff?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/Javascript-e4e94f?style=for-the-badge&logo=javascript&logoColor=white">
-  <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-bedge&logo=Typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Dart-343939?style=for-the-badge&logo=dart&logoColor=black">
 </div>
