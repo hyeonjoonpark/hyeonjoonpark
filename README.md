@@ -34,17 +34,8 @@ If you want to contact me Pls refer to My SNS.
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/css3-ff00ff?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/Javascript-e4e94f?style=for-the-badge&logo=javascript&logoColor=white">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Node.js-02a100?style=for-the-badge&logo=node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/Oracle-d3a102?style=for-the-badge&logo=oracle&logoColor=white">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <br>
-  <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
-  <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
-  <img src="https://img.shields.io/badge/R-ffffff?style=for-the-badge&logo=r&logoColor=black">
   <img src="https://img.shields.io/badge/Dart-343939?style=for-the-badge&logo=dart&logoColor=black">
-  <img src="https://img.shields.io/badge/MySQL-ac4534?style=for-the-badge&logo=mysql&logoColor=black">
   <br>
   <hr>
 </div>
@@ -52,8 +43,14 @@ If you want to contact me Pls refer to My SNS.
 <b>💻Frameworks💻</b>
 </div>
 <div align="center">
-
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black"/>
+  <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Node.js-02a100?style=for-the-badge&logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
 </div>
+<br>
+  <div align="center">
 <b>🛠Tools🛠</b>
   </div>
   <div align="center">
@@ -67,10 +64,18 @@ If you want to contact me Pls refer to My SNS.
 <img src="https://img.shields.io/badge/Github-black?style=flat-round&logo=Github&logoColor=white"/>
 <img src="https://img.shields.io/badge/linux-red?style=flat-round&logo=linux&logoColor=black"> 
   </div>
+  <br>
+  <div align="center">
+<b>🖥️DevOps🖥️</b>
   </div>
-</div>
+  <div align="center">
+    <img src="https://img.shields.io/badge/MySQL-ac4534?style=for-the-badge&logo=mysql&logoColor=black">
+    <img src="https://img.shields.io/badge/ORACLE-F80000?style=flat-square&logo=oracle&logoColor=white"/>
+- PHP
+  </div>
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyeonjoonpark&layout=compact&theme=onedark"/> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyeonjoonpark&layout=compact&theme=onedark"/>
+  <img src="https://img.shields.io/badge/Oracle-d3a102?style=for-the-badge&logo=oracle&logoColor=white">
 </div>
 </div>
