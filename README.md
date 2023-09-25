@@ -86,6 +86,7 @@ If you want to contact me Pls refer to My SNS.
 <img src="https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=Git&logoColor=white"/>
 <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=Github&logoColor=white"/>
 <img src="https://img.shields.io/badge/linux-red?style=for-the-badge&logo=linux&logoColor=black">
+    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white"/>
 <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=Xcode&logoColor=white"/>
   </div>
   <br>
