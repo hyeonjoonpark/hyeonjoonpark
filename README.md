@@ -22,7 +22,7 @@
 ---
 
 <div align="left">
-  <b>hyeonjoonpark<br>FullStack(?) SoftWare Developer</b><br>
+  <b>FullStack(?) SoftWare Developer</b><br>
   <b>Email : pjjoon1379@gmail.com</b><br>
   <b><a href="https://www.notion.so/6c63d91243094dc0b0d81839ea648815">Notion</a></b><br>
 </div>
