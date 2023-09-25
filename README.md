@@ -52,6 +52,15 @@ If you want to contact me Pls refer to My SNS.
 <br>
 
 <div align="center">
+<b>⌨️Else⌨️</b>
+  </div>
+  <div align="center">
+    <img src="https://img.shields.io/badge/styled components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
+    <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white"/>
+  </div>
+  <br>
+
+<div align="center">
 <b>🖥️DevOps🖥️</b>
 </div>
 <div align="center">
@@ -75,15 +84,6 @@ If you want to contact me Pls refer to My SNS.
 <img src="https://img.shields.io/badge/Github-black?style=flat-round&logo=Github&logoColor=white"/>
 <img src="https://img.shields.io/badge/linux-red?style=flat-round&logo=linux&logoColor=black"> 
     <img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white"/>
-  </div>
-  <br>
-  
-<div align="center">
-<b>⌨️Else⌨️</b>
-  </div>
-  <div align="center">
-    <img src="https://img.shields.io/badge/styled components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
-    <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white"/>
   </div>
   <br>
   
