@@ -66,6 +66,7 @@ If you want to contact me Pls refer to My SNS.
 </div>
 <div align="center">
   <img src="https://img.shields.io/badge/MySQL-ac4534?style=for-the-badge&logo=mysql&logoColor=black">
+    <img src="https://img.shields.io/badge/Oracle-d3a102?style=for-the-badge&logo=oracle&logoColor=white">
   <img src="https://img.shields.io/badge/ORACLE-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/>
 </div>
@@ -90,6 +91,5 @@ If you want to contact me Pls refer to My SNS.
   
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyeonjoonpark&layout=compact&theme=onedark"/>
-  <img src="https://img.shields.io/badge/Oracle-d3a102?style=for-the-badge&logo=oracle&logoColor=white">
 </div>
 </div>
