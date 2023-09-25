@@ -57,7 +57,7 @@ If you want to contact me Pls refer to My SNS.
   <div align="center">
     <img src="https://img.shields.io/badge/styled components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
     <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black"/>
   </div>
   <br>
 
@@ -75,16 +75,16 @@ If you want to contact me Pls refer to My SNS.
 <b>🛠Tools🛠</b>
   </div>
   <div align="center">
-<img src="https://img.shields.io/badge/Visual Studio code-24acf2?style=flat-round&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/IntelliJ-darkblue?style=flat-round&logo=intelliJ&logoColor=white"/>
-<img src="https://img.shields.io/badge/Android Studio-24acf2?style=flat-round&logo=androidstudio&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google colab-163264?style=flat-round&logo=googlecolab&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pycharm-aa34f4?style=flat-round&logo=pycharm&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jupyter notebook-bb2345?style=flat-round&logo=jupyternotebook&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-orange?style=flat-round&logo=Git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Github-black?style=flat-round&logo=Github&logoColor=white"/>
-<img src="https://img.shields.io/badge/linux-red?style=flat-round&logo=linux&logoColor=black">
-<img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Visual Studio code-24acf2?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/IntelliJ-darkblue?style=for-the-badge&logo=intelliJ&logoColor=white"/>
+<img src="https://img.shields.io/badge/Android Studio-24acf2?style=for-the-badge&logo=androidstudio&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google colab-163264?style=for-the-badge&logo=googlecolab&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pycharm-aa34f4?style=for-the-badge&logo=pycharm&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter notebook-bb2345?style=for-the-badge&logo=jupyternotebook&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=Git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=Github&logoColor=white"/>
+<img src="https://img.shields.io/badge/linux-red?style=for-the-badge&logo=linux&logoColor=black">
+<img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=Xcode&logoColor=white"/>
   </div>
   <br>
   
