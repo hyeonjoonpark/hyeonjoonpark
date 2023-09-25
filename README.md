@@ -34,7 +34,7 @@ If you want to contact me Pls refer to My SNS.
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/css3-ff00ff?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/Javascript-e4e94f?style=for-the-badge&logo=javascript&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Dart-343939?style=for-the-badge&logo=dart&logoColor=black">
 </div>
   <br>
@@ -57,6 +57,7 @@ If you want to contact me Pls refer to My SNS.
 <div align="center">
   <img src="https://img.shields.io/badge/MySQL-ac4534?style=for-the-badge&logo=mysql&logoColor=black">
   <img src="https://img.shields.io/badge/ORACLE-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/>
 </div>
 <br>
 
@@ -73,9 +74,19 @@ If you want to contact me Pls refer to My SNS.
 <img src="https://img.shields.io/badge/Git-orange?style=flat-round&logo=Git&logoColor=white"/>
 <img src="https://img.shields.io/badge/Github-black?style=flat-round&logo=Github&logoColor=white"/>
 <img src="https://img.shields.io/badge/linux-red?style=flat-round&logo=linux&logoColor=black"> 
+    <img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white"/>
   </div>
   <br>
-
+  
+<div align="center">
+<b>⌨️Else⌨️</b>
+  </div>
+  <div align="center">
+    <img src="https://img.shields.io/badge/styled components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
+    <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white"/>
+  </div>
+  <br>
+  
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyeonjoonpark&layout=compact&theme=onedark"/>
   <img src="https://img.shields.io/badge/Oracle-d3a102?style=for-the-badge&logo=oracle&logoColor=white">
