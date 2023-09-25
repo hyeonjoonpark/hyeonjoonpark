@@ -24,6 +24,7 @@ If you want to contact me Pls refer to My SNS.
 </div>
 
 ---
+<br>
 
 <div align="left">
 <div align="center"> 
