@@ -11,7 +11,7 @@
 </a>
 
 ---
-<b><p style="color: blue">“Don’t worry if it doesn’t work right. If everything did, you’d be out of a job.”</p></b>
+<b><p>“Don’t worry if it doesn’t work right. If everything did, you’d be out of a job.”</p></b>
 <br>
 <p>"만약 그것이 제대로 작동하지 않는다고 해도 걱정하지 마세요. 
 
