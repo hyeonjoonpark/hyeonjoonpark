@@ -57,6 +57,7 @@ If you want to contact me Pls refer to My SNS.
   <div align="center">
     <img src="https://img.shields.io/badge/styled components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
     <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black"/>
   </div>
   <br>
 
@@ -82,8 +83,8 @@ If you want to contact me Pls refer to My SNS.
 <img src="https://img.shields.io/badge/Jupyter notebook-bb2345?style=flat-round&logo=jupyternotebook&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-orange?style=flat-round&logo=Git&logoColor=white"/>
 <img src="https://img.shields.io/badge/Github-black?style=flat-round&logo=Github&logoColor=white"/>
-<img src="https://img.shields.io/badge/linux-red?style=flat-round&logo=linux&logoColor=black"> 
-    <img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white"/>
+<img src="https://img.shields.io/badge/linux-red?style=flat-round&logo=linux&logoColor=black">
+<img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white"/>
   </div>
   <br>
   
