@@ -88,7 +88,6 @@
 <img src="https://img.shields.io/badge/Android Studio-24acf2?style=for-the-badge&logo=androidstudio&logoColor=white"/>
 <img src="https://img.shields.io/badge/Google colab-163264?style=for-the-badge&logo=googlecolab&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pycharm-aa34f4?style=for-the-badge&logo=pycharm&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jupyter notebook-bb2345?style=for-the-badge&logo=jupyternotebook&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=Git&logoColor=white"/>
 <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=Github&logoColor=white"/>
 <img src="https://img.shields.io/badge/linux-red?style=for-the-badge&logo=linux&logoColor=black">
