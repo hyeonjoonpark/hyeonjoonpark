@@ -3,7 +3,7 @@
   
 
   ### <b> hyeonjoonpark </b> 
-  ### <p>BSSM 22</p>
+  ### <p>BSSM 2022</p>
 
 
 <a href="https://github.com/hyeonjoonpark"></a>
