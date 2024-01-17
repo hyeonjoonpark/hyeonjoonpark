@@ -3,7 +3,7 @@
 <div align="center">
   
 
-  ### <b>@hyeonjoonpark </b> 
+  ### <b>hyeonjoonpark </b> 
   ### <p>SW Developer</p>
   ### <p>BSSM 2nd</p>
 
