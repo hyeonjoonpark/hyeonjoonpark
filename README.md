@@ -45,7 +45,7 @@
   <br>
   
 <div align="center">
-<b>💻Library & Frameworks💻</b>
+<b>💻Library & Framework💻</b>
 </div>
 <div align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black"/>
