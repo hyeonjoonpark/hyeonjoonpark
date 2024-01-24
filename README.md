@@ -4,7 +4,7 @@
   
 
   ### <b>hyeonjoonpark </b> 
-  ### <p>SW Developer</p>
+  ### <p>Software Developer</p>
   ### <p>BSSM 2nd</p>
 
 
