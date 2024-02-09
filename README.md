@@ -10,7 +10,6 @@
 
 <a href="https://github.com/hyeonjoonpark"></a>
 <a href="https://www.instagram.com/jjoon1379/"><img src="https://img.shields.io/badge/Instagram-FF0080?style=flat-round&logo=instagram&logoColor=white"/></a>
-<a href="https://velog.io/@hyeonjoonpark/posts">My velog</a>
 
 ---
 <b><p>“Don’t worry if it doesn’t work right. If everything did, you’d be out of a job.”</p></b>
@@ -26,7 +25,8 @@
 <div align="left">
   <b>SoftWare Developer</b><br>
   <b>Email : pjjoon1379@gmail.com</b><br>
-  <b><a href="https://www.notion.so/6c63d91243094dc0b0d81839ea648815">Notion</a></b><br>
+  <b><a href="https://www.notion.so/6c63d91243094dc0b0d81839ea648815" style="text-decoration: none; color: white;">Notion</a></b><br>
+  <a href="https://velog.io/@hyeonjoonpark/posts" style="text-decoration: none; color: white;">My velog</a>
 </div>
 
 ---
