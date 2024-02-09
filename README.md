@@ -9,8 +9,8 @@
 
 
 <a href="https://github.com/hyeonjoonpark"></a>
-  <a href="https://www.instagram.com/jjoon1379/"><img src="https://img.shields.io/badge/Instagram-FF0080?style=flat-round&logo=instagram&logoColor=white"/>
-</a>
+<a href="https://www.instagram.com/jjoon1379/"><img src="https://img.shields.io/badge/Instagram-FF0080?style=flat-round&logo=instagram&logoColor=white"/></a>
+<a href="https://velog.io/@hyeonjoonpark/posts">My velog</a>
 
 ---
 <b><p>“Don’t worry if it doesn’t work right. If everything did, you’d be out of a job.”</p></b>
