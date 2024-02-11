@@ -37,8 +37,8 @@
 <table style="text-align: center;">
   <thead>
     <tr>
-      <th>Language</th>
-      <th>Library & Framework</th>
+      <th>language</th>
+      <th>library & framework</th>
       <th>else</th>
     </tr>
   </thead>
