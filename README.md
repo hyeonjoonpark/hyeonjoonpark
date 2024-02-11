@@ -67,16 +67,6 @@
   </tbody>
 </table>
 
-
-
-<br>
-
-<div align="center">
-<b>🖥️else🖥️</b>
-</div>
-<div align="center">
-
-</div>
 <br>
 
   <div align="center">
