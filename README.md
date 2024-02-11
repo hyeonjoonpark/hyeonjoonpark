@@ -50,6 +50,11 @@
         <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white"/>
         <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black"/>
       </td>
+      <td rowspan="4">
+        <img src="https://img.shields.io/badge/MySQL-ac4534?style=for-the-badge&logo=mysql&logoColor=black"/>
+        <img src="https://img.shields.io/badge/ORACLE-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/>
+      </td>
     </tr>
     <tr>
       <td><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/></td>
@@ -60,14 +65,18 @@
       <td><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/></td>
     </tr>
     <tr>
-      <th rowspan=="3">
-        <img src="https://img.shields.io/badge/MySQL-ac4534?style=for-the-badge&logo=mysql&logoColor=black"/>
-        <img src="https://img.shields.io/badge/ORACLE-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/>
-      </th>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th colspan="3">Additional Information</th>
+    </tr>
+    <tr>
+      <td colspan="3">...</td>
     </tr>
   </tbody>
 </table>
+
 
 
 <br>
