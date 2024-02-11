@@ -58,39 +58,10 @@
       <td><img src="https://img.shields.io/badge/Dart-343939?style=for-the-badge&logo=dart&logoColor=black"/></td>
       <td><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/></td>
     </tr>
-    <tr>
-      <td></td>
-      <td>Express.js</td>
-    </tr>
   </tbody>
 </table>
 
-<style>
-  thead {
-    background-color: #f0f0f0; /* 변경하고자 하는 색상 코드 입력 */
-  }
-</style>
 
-
-  
-<b>📖Language📖</b>
-</div>
-<div align="center">
-  
-  
-  
-</div>
-  <br>
-  
-<div align="center">
-<b>💻Library & Framework💻</b>
-</div>
-<div align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black"/>
-  
-
-  
-</div>
 <br>
 
 <div align="center">
