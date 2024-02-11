@@ -59,6 +59,13 @@
       <td><img src="https://img.shields.io/badge/Dart-343939?style=for-the-badge&logo=dart&logoColor=black"/></td>
       <td><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/></td>
     </tr>
+    <tr>
+      <th colspan=="3">
+          <img src="https://img.shields.io/badge/MySQL-ac4534?style=for-the-badge&logo=mysql&logoColor=black"/>
+  <img src="https://img.shields.io/badge/ORACLE-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/>
+      </th>
+    </tr>
   </tbody>
 </table>
 
@@ -69,9 +76,7 @@
 <b>🖥️else🖥️</b>
 </div>
 <div align="center">
-  <img src="https://img.shields.io/badge/MySQL-ac4534?style=for-the-badge&logo=mysql&logoColor=black"/>
-  <img src="https://img.shields.io/badge/ORACLE-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/>
+
 </div>
 <br>
 
