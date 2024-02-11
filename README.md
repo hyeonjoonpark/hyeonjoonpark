@@ -34,7 +34,7 @@
 
 <div align="left">
 <div align="center"> 
-<table>
+<table style="text-align: center;">
   <thead>
     <tr>
       <th>Language</th>
