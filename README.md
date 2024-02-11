@@ -47,6 +47,7 @@
       <td>
         <img src="https://img.shields.io/badge/Node.js-02a100?style=for-the-badge&logo=node.js&logoColor=white"/>
         <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black"/>
       </td>
     </tr>
     <tr>
