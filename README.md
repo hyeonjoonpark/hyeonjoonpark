@@ -51,7 +51,7 @@
       <td>Spring</td>
     </tr>
     <tr>
-      <td>Dart</td>
+      <td><img src="https://img.shields.io/badge/Dart-343939?style=for-the-badge&logo=dart&logoColor=black"/></td>
       <td>Flutter</td>
     </tr>
     <tr>
@@ -70,7 +70,7 @@
 <div align="center">
   
   
-  <img src="https://img.shields.io/badge/Dart-343939?style=for-the-badge&logo=dart&logoColor=black"/>
+  
 </div>
   <br>
   
