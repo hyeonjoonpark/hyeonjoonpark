@@ -37,7 +37,10 @@
 <table>
   <thead>
     <th>
-      Hello
+      Language
+    </th>
+    <th>
+      Library & Framework
     </th>
   </thead>
   <tbody>
