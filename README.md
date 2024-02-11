@@ -36,18 +36,31 @@
 <div align="center"> 
 <table>
   <thead>
-    <th>
-      Language
-      <tr>Node</tr>
-    </th>
-    <th>
-      Library & Framework
-    </th>
+    <tr>
+      <th>Language</th>
+      <th>Library & Framework</th>
+    </tr>
   </thead>
   <tbody>
-    
+    <tr>
+      <td>JavaScript</td>
+      <td>Node.js</td>
+    </tr>
+    <tr>
+      <td>Java</td>
+      <td>Spring</td>
+    </tr>
+    <tr>
+      <td>Dart</td>
+      <td>Flutter</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Express.js</td>
+    </tr>
   </tbody>
 </table>
+
 
 
 
