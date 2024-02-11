@@ -51,7 +51,7 @@
     </tr>
     <tr>
       <td><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/></td>
-      <td>Spring</td>
+      <td><img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/> </td>
     </tr>
     <tr>
       <td><img src="https://img.shields.io/badge/Dart-343939?style=for-the-badge&logo=dart&logoColor=black"/></td>
@@ -82,7 +82,7 @@
 </div>
 <div align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black"/>
-  <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/> 
+  
 
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
 </div>
