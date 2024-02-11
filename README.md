@@ -60,7 +60,6 @@
       <td><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/></td>
       <td>
         <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-        <img src="https://img.shields.io/badge/jpa-?style=for-the-badge}&logo=jpa&logoColor=black"/>
         <img src="https://img.shields.io/badge/JPA-90ee90?style=for-the-badge&logo=JPA&logoColor=black"/>
       </td>
     </tr>
