@@ -43,11 +43,11 @@
   </thead>
   <tbody>
     <tr>
-      <td>JavaScript</td>
+      <td><img src="https://img.shields.io/badge/Javascript-e4e94f?style=for-the-badge&logo=javascript&logoColor=white"/></td>
       <td>Node.js</td>
     </tr>
     <tr>
-      <td>Java</td>
+      <td><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/></td>
       <td>Spring</td>
     </tr>
     <tr>
@@ -68,8 +68,8 @@
 <b>📖Language📖</b>
 </div>
 <div align="center">
-  <img src="https://img.shields.io/badge/Javascript-e4e94f?style=for-the-badge&logo=javascript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  
+  
   <img src="https://img.shields.io/badge/Dart-343939?style=for-the-badge&logo=dart&logoColor=black"/>
 </div>
   <br>
