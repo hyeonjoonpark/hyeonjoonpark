@@ -64,7 +64,11 @@
   </tbody>
 </table>
 
-
+<style>
+  thead {
+    background-color: #f0f0f0; /* 변경하고자 하는 색상 코드 입력 */
+  }
+</style>
 
 
   
