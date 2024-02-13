@@ -25,7 +25,7 @@
 <div align="left">
   <b>SoftWare Developer</b><br>
   <b>Email : pjjoon1379@gmail.com</b><br>
-  <b><a href="https://www.notion.so/6c63d91243094dc0b0d81839ea648815" style="text-decoration: none; color: white;">Notion</a></b><br>
+  <b><a href="https://www.notion.so/6c63d91243094dc0b0d81839ea648815](https://fancy-engineer-1ca.notion.site/6c63d91243094dc0b0d81839ea648815)" style="text-decoration: none; color: white;">Notion</a></b><br>
   <b><a href="https://velog.io/@hyeonjoonpark/posts" style="text-decoration: none; color: white;">My velog</a></b>
 </div>
 
