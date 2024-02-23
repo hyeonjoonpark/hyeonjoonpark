@@ -91,4 +91,4 @@
 <br>
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeonjoonpark)](https://github.com/hyeonjoonpark/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyeonjoonpark&hide=html&langs_count=10&layout=compact)]()
