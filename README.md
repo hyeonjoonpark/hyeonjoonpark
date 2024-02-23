@@ -19,8 +19,9 @@
 모든 것이 제대로 작동했다면, 당신은 일자리를 잃었을 것입니다.</p>
 
 </div>
-
+<div>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyeonjoonpark&hide=html&langs_count=10&layout=compact)]()
+</div>
 
 ---
 
