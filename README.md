@@ -20,6 +20,10 @@
 
 <br>
 
+![](./profile-3d-contrib/profile-green-animate.svg)
+
+<br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyeonjoonpark&hide=html&langs_count=10&layout=compact)]()
 
 </div>
