@@ -13,8 +13,6 @@
 
 ---
 
-![](./profile-3d-contrib/profile-green-animate.svg)
-
 <br>
 
 <b><p>“Don’t worry if it doesn’t work right. If everything did, you’d be out of a job”</p></b>
