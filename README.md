@@ -19,7 +19,7 @@
 ![](./profile-3d-contrib/profile-green-animate.svg)
 <img src="https://ghchart.rshah.org/219138/hyeonjoonpark"/>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hyeonjoonpark)](https://github.com/hyeonjoonpark/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hyeonjoonpark&theme=github-compact)](https://github.com/hyeonjoonpark/github-readme-activity-graph)
 
 
 ---
