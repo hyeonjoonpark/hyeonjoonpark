@@ -13,7 +13,7 @@
 
 <br>
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=hyeonjoonnpark)](https://velog.io/@hyeonjoonpark)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=hyeonjoonpark)](https://github.com/hyeonjoonpark/velog-readme-stats)
 
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
