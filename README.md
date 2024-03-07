@@ -13,8 +13,6 @@
 
 <br>
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=hyeonjoonpark)](https://github.com/hyeonjoonpark/velog-readme-stats)
-
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
 <img src="https://ghchart.rshah.org/219138/hyeonjoonpark"/>
@@ -46,7 +44,7 @@
   <b>SoftWare Developer</b><br>
   <b>Email : pjjoon1379@gmail.com</b><br>
   <b><a href="https://fancy-engineer-1ca.notion.site/6c63d91243094dc0b0d81839ea648815" style="text-decoration: none; color: white;">Notion</a></b><br>
-  <b><a href="https://velog.io/@hyeonjoonpark/posts" style="text-decoration: none; color: white;">My velog</a></b>
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=hyeonjoonpark)](https://github.com/hyeonjoonpark/velog-readme-stats)
 </div>
 
 ---
