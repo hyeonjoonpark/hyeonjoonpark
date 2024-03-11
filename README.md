@@ -19,25 +19,6 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hyeonjoonpark&theme=github-compact)](https://github.com/hyeonjoonpark/github-readme-activity-graph)
 
-
----
-
-<br>
-
-<b><p>“Don’t worry if it doesn’t work right. If everything did, you’d be out of a job”</p></b>
-<br>
-<p>"만약 그것이 제대로 작동하지 않는다고 해도 걱정하지 마세요"
-
-모든 것이 제대로 작동했다면, 당신은 일자리를 잃었을 것입니다</p>
-
-<br>
-
-</div>
-
-<div align="center" style="display: flex; flex-direction: row, justify-content: center; align-items: center;">
-<div><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" /></div><div><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" /></div><div><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" /></div><div><img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="65" height="65" /></div>
-</div>
-
 ---
 
 <div align="left">
