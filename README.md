@@ -34,8 +34,6 @@
 ---
 <br>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hyeonjoonpark&theme=github-compact)](https://github.com/hyeonjoonpark/github-readme-activity-graph)
-
 <div align="left">
 <div align="center"> 
 <table style="text-align: center;">
