@@ -13,7 +13,6 @@
 <br>
 
 <a href="https://www.instagram.com/jjoon1379/"><img src="https://img.shields.io/badge/Instagram-FF0080?style=flat-round&logo=instagram&logoColor=white"/></a>
-  <b><a href="https://fancy-engineer-1ca.notion.site/6c63d91243094dc0b0d81839ea648815" style="text-decoration: none; color: white;">Notion</a></b><br>
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
@@ -21,7 +20,7 @@
 ![](./profile-3d-contrib/profile-green-animate.svg)
 <img src="https://ghchart.rshah.org/219138/hyeonjoonpark"/>
 
-
+<b><a href="https://fancy-engineer-1ca.notion.site/6c63d91243094dc0b0d81839ea648815" style="text-decoration: none; color: white;">Notion</a></b><br>
 
 ---
 
