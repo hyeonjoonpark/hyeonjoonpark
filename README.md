@@ -20,13 +20,13 @@
 ![](./profile-3d-contrib/profile-green-animate.svg)
 <img src="https://ghchart.rshah.org/219138/hyeonjoonpark"/>
 
-<b><a href="https://fancy-engineer-1ca.notion.site/6c63d91243094dc0b0d81839ea648815" style="text-decoration: none; color: white;">Notion</a></b><br>
 
 ---
 
 <div align="left">
   <b>SoftWare Developer</b><br>
   <b>Email : pjjoon1379@gmail.com</b><br>
+  <b><a href="https://fancy-engineer-1ca.notion.site/6c63d91243094dc0b0d81839ea648815" style="text-decoration: none; color: white;">Notion</a></b><br>
 </div>
 
 ---
