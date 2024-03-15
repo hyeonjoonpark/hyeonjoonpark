@@ -13,6 +13,7 @@
 <br>
 
 <a href="https://www.instagram.com/jjoon1379/"><img src="https://img.shields.io/badge/Instagram-FF0080?style=flat-round&logo=instagram&logoColor=white"/></a>
+  <b><a href="https://fancy-engineer-1ca.notion.site/6c63d91243094dc0b0d81839ea648815" style="text-decoration: none; color: white;">Notion</a></b><br>
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
@@ -34,7 +35,6 @@
 <br>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hyeonjoonpark&theme=github-compact)](https://github.com/hyeonjoonpark/github-readme-activity-graph)
-  <b><a href="https://fancy-engineer-1ca.notion.site/6c63d91243094dc0b0d81839ea648815" style="text-decoration: none; color: white;">Notion</a></b><br>
 
 <div align="left">
 <div align="center"> 
