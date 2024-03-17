@@ -3,7 +3,7 @@
 <div align="center">
   
 
-  ### <b>hyeonjoonpark </b> 
+  ### <b>hyeonjoonpark</b> 
   ### <p>Software Developer</p>
   ### <p>Busan Software Meister High School 2022</p>
 
