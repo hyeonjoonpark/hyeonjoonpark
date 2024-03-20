@@ -5,7 +5,7 @@
 
   ### <b>hyeonjoonpark</b> 
   ### <p>Software Developer</p>
-  ### <p>Busan Software Meister High School 2022</p>
+  ### <p>Busan Software Meister High School 2nd</p>
 
 
 <a href="https://github.com/hyeonjoonpark"></a>
