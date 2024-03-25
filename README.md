@@ -49,12 +49,6 @@ Mac                      14 hrs 16 mins      ███████████�
 ```
 
 
- Last Updated on 19/03/2024 12:13:00 UTC
-<!--END_SECTION:waka-->
-
-![](./profile-3d-contrib/profile-green-animate.svg)
-<img src="https://ghchart.rshah.org/219138/hyeonjoonpark"/>
-
 ---
 <br>
 
