@@ -14,6 +14,8 @@
 
 <a href="https://www.instagram.com/jjoon1379/"><img src="https://img.shields.io/badge/Instagram-FF0080?style=flat-round&logo=instagram&logoColor=white"/></a>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyeonjoonpark&hide_progress=true)
+
 
 ---
 <br>
