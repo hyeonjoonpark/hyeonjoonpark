@@ -14,6 +14,9 @@
 
 <a href="https://www.instagram.com/jjoon1379/"><img src="https://img.shields.io/badge/Instagram-FF0080?style=flat-round&logo=instagram&logoColor=white"/></a>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ---
 <br>
 
