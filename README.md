@@ -4,7 +4,7 @@
   
 
   ### <b>hyeonjoonpark</b> 
-  ### <p>Software Developer</p>
+  ### <p>SW Developer</p>
   ### <p>BSSM 2nd</p>
   ### <p>CONTACT : 010-4886-1379</p>
 
