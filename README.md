@@ -1,7 +1,5 @@
-[![GitHub Streak](https://streak-stats.demolab.com/?user=hyeonjoonpark)](https://git.io/streak-stats)
-
 <div align="center">
-  
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=hyeonjoonpark)](https://git.io/streak-stats)
 
   ### <b>hyeonjoonpark</b> 
   ### <p>SW Developer</p>
