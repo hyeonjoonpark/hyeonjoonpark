@@ -6,8 +6,6 @@
 <a href="https://github.com/hyeonjoonpark"></a>
 
 <br>
-<a href="https://www.instagram.com/jjoon1379/"><img src="https://img.shields.io/badge/Instagram-FF0080?style=flat-round&logo=instagram&logoColor=white"/></a>
-
 <div align="center">
 
 <!--START_SECTION:waka-->
