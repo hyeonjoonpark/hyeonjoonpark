@@ -1,4 +1,4 @@
-<img src="https://github-readme-stats.vercel.app/api?username=hyeonjoonpark&show_icons=true&theme=tokyonight" align="right">
+[![GitHub Streak](https://streak-stats.demolab.com/?user=hyeonjoonpark)](https://git.io/streak-stats)
 
 <div align="center">
   
