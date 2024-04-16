@@ -1,9 +1,7 @@
  [![GitHub Streak](https://streak-stats.demolab.com/?user=hyeonjoonpark)](https://git.io/streak-stats)
 
- ### <b>hyeonjoonpark</b> 
-  ### <p>SW Developer</p>
+ ### <b>hyeonjoonpark SW Developer</b> 
   ### <p>BSSM 2nd</p>
-  ### <p>CONTACT : 010-4886-1379</p>
 
 <a href="https://github.com/hyeonjoonpark"></a>
 
