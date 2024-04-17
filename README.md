@@ -10,7 +10,7 @@
 <a href="https://github.com/hyeonjoonpark"></a>
 
 <br>
-<div align="center">
+<div>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-53%20hrs%201%20min-blue)
