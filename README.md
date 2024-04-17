@@ -47,8 +47,9 @@ Mac                      12 hrs 25 mins      ███████████�
  [![GitHub Streak](https://streak-stats.demolab.com/?user=hyeonjoonpark)](https://git.io/streak-stats)
  </div>
 
- <div>
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeonjoonpark)](https://github.com/hyeonjoonpark/github-readme-stats)
+<div>
+ 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeonjoonpark&show_icons=true&theme=radical)
 </div>
 
 
