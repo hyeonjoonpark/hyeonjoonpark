@@ -1,12 +1,3 @@
-<div>
- 
- [![GitHub Streak](https://streak-stats.demolab.com/?user=hyeonjoonpark)](https://git.io/streak-stats)
-
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeonjoonpark)](https://github.com/hyeonjoonpark/github-readme-stats)
-
-
-</div>
-
 <a href="https://github.com/hyeonjoonpark"></a>
 
 <br>
@@ -50,6 +41,16 @@ Mac                      12 hrs 25 mins      ███████████�
 
  Last Updated on 16/04/2024 12:12:55 UTC
 <!--END_SECTION:waka-->
+
+<div>
+ 
+ [![GitHub Streak](https://streak-stats.demolab.com/?user=hyeonjoonpark)](https://git.io/streak-stats)
+
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeonjoonpark)](https://github.com/hyeonjoonpark/github-readme-stats)
+
+
+</div>
+
 
 ---
 <br>
