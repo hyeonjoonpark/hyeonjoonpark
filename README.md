@@ -42,7 +42,7 @@ Mac                      12 hrs 25 mins      ███████████�
  Last Updated on 16/04/2024 12:12:55 UTC
 <!--END_SECTION:waka-->
 
-<div>
+<div display="flex">
  
  [![GitHub Streak](https://streak-stats.demolab.com/?user=hyeonjoonpark)](https://git.io/streak-stats)
 
