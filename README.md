@@ -7,9 +7,6 @@
 
 </div>
 
- ### <b>hyeonjoonpark SW Developer</b> 
-  ### <p>BSSM 2nd</p>
-
 <a href="https://github.com/hyeonjoonpark"></a>
 
 <br>
