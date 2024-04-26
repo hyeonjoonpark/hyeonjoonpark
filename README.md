@@ -1,6 +1,8 @@
 # hyeonjoonpark
 ## Software Developer
 
+### 점점 더 성장하는 개발자가 되고 싶습니다
+
 <a href="https://github.com/hyeonjoonpark"></a>
 
 <br>
