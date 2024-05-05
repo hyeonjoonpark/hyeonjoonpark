@@ -11,9 +11,13 @@
 
 ```java
 public class 박현준 {
- private String tech;
- private String portfolio;
- private String school;
+  private String tech;
+  private String portfolio;
+  private String school;
+
+  public void getTech(String tech) {
+    this.tech = tech;
+  }
 }
 ```
 
