@@ -1,11 +1,11 @@
 # hyeonjoonpark
 ## Software Developer
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeonjoonpark&show_icons=true&theme=radical)
+
 ### 점점 더 성장하는 개발자가 되고 싶습니다
 
 <a href="https://github.com/hyeonjoonpark"></a>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeonjoonpark&show_icons=true&theme=radical)
 
 <br>
 <div>
