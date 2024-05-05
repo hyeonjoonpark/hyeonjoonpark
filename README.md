@@ -8,9 +8,6 @@
 <br>
 <div>
 
-
-
-<div>
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeonjoonpark&show_icons=true&theme=radical)
 
@@ -54,8 +51,6 @@ Mac                      16 hrs 42 mins      ███████████�
  Last Updated on 04/05/2024 12:12:24 UTC
 <!--END_SECTION:waka-->
 
-
-</div>
 
 
 ---
