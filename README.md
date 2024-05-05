@@ -9,19 +9,6 @@
 
 <div>
 
-```java
-public class 박현준 {
-  private String tech;
-  private String portfolio;
-  private String school;
-
-  public void getTech(String tech) {
-    this.tech = tech;
-  }
-}
-```
-
-
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-99%20hrs%2052%20mins-blue)
 
