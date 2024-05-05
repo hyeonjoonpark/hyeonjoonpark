@@ -5,8 +5,6 @@
 
 <a href="https://github.com/hyeonjoonpark"></a>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyeonjoonpark&langs_count=10&themeradical)
-
 <br>
 <div>
 
