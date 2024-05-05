@@ -7,8 +7,15 @@
 
 <a href="https://github.com/hyeonjoonpark"></a>
 
-<br>
 <div>
+
+```java
+public class 박현준 {
+ private String tech;
+ private String portfolio;
+ private String school;
+}
+```
 
 
 <!--START_SECTION:waka-->
