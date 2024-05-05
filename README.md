@@ -51,7 +51,7 @@ Mac                      16 hrs 42 mins      ███████████�
 <div>
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeonjoonpark&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyeonjoonpark&langs_count=10&layout=compact&themeradical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyeonjoonpark&langs_count=10&themeradical)
 </div>
 
 
