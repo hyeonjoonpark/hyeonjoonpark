@@ -10,6 +10,13 @@
 <br>
 <div>
 
+
+
+<div>
+ 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeonjoonpark&show_icons=true&theme=radical)
+
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-99%20hrs%2052%20mins-blue)
 
@@ -49,10 +56,6 @@ Mac                      16 hrs 42 mins      ███████████�
  Last Updated on 04/05/2024 12:12:24 UTC
 <!--END_SECTION:waka-->
 
-
-<div>
- 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeonjoonpark&show_icons=true&theme=radical)
 
 </div>
 
