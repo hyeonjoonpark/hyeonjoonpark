@@ -1,5 +1,5 @@
 # hyeonjoonpark (Software Developer)
-### 점점 더 성장해나가는 개발자가 되고 싶습니다
+### 끊임없이 고민하고 성장해나가는 개발자가 되고 싶습니다
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeonjoonpark)](https://github.com/hyeonjoonpark/github-readme-stats)
 
