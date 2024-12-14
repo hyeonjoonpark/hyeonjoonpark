@@ -1,7 +1,7 @@
 # hyeonjoonpark (Software Developer)
 ### 끊임없이 고민하고 성장해나가는 개발자가 되고 싶습니다.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyeonjoonpark&layout=compact&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeonjoonpark&show_icons=true&theme=dracula)
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-399%20hrs%201%20min-blue)
