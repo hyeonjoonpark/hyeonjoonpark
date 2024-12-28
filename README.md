@@ -1,5 +1,5 @@
 # hyeonjoonpark (Software Developer)
-### 끊임없이 고민하고 성장해나가는 개발자가 되고 싶습니다
+### 끊임없이 고민하고 성장해나가는 개발자가 되고 싶습니다.
 
 Notion : https://fancy-engineer-1ca.notion.site/1204692af62d800790f6d85c454ddc14
 
