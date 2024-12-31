@@ -2,6 +2,7 @@
 ### 끊임없이 고민하고 성장해나가는 개발자가 되고 싶습니다.
 
 Notion : https://fancy-engineer-1ca.notion.site/1204692af62d800790f6d85c454ddc14
+velog: https://velog.io/@hyeonjoonpark/posts
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeonjoonpark&show_icons=true&theme=dracula)
 
