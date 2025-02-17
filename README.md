@@ -8,7 +8,7 @@ velog: https://velog.io/@hyeonjoonpark/posts
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeonjoonpark&show_icons=true&theme=dracula)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-517%20hrs%2029%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-517%20hrs%2057%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -60,7 +60,7 @@ Swift                    2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 16/02/2025 12:17:16 UTC
+ Last Updated on 17/02/2025 12:17:39 UTC
 <!--END_SECTION:waka-->
 ---
 <br>
