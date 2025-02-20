@@ -1,83 +1,34 @@
 # hyeonjoonpark (Software Developer)
 ### 끊임없이 고민하고 성장해나가는 개발자가 되고 싶습니다.
 
-<style>
-  body {
-    font-family: 'Arial', sans-serif;
-    background-color: #f4f4f4;
-    margin: 0;
-    padding: 20px;
-  }
-  
-  table {
-    width: 100%;
-    border-collapse: collapse;
-    margin: 20px 0;
-    font-size: 1em;
-    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
-    border-radius: 8px;
-    overflow: hidden;
-  }
-
-  th, td {
-    padding: 15px;
-    text-align: center;
-  }
-
-  th {
-    background-color: #6c757d;
-    color: white;
-    text-transform: uppercase;
-  }
-
-  tr {
-    transition: background-color 0.3s;
-  }
-
-  tr:nth-child(even) {
-    background-color: #f8f9fa;
-  }
-
-  tr:hover {
-    background-color: #e2e6ea;
-  }
-
-  td {
-    border-bottom: 1px solid #dee2e6;
-  }
-</style>
-
 ### 경력
 
-<table>
+<table style="width:100%; text-align: center; border-collapse: collapse; box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1); border-radius: 8px; overflow: hidden;">
   <thead>
     <tr>
-      <th>회사명</th>
-      <th>직무</th>
-      <th>기간</th>
+      <th style="background-color: #007bff; color: white; padding: 15px;">회사명</th>
+      <th style="background-color: #28a745; color: white; padding: 15px;">직무</th>
+      <th style="background-color: #ffc107; color: white; padding: 15px;">기간</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><strong>Busan Software Meister High School</strong></td>
-      <td>학생</td>
-      <td>2022.03 ~ 2025.01.09</td>
+      <td style="background-color: #007bff; color: white; padding: 15px;"><strong>Busan Software Meister High School</strong></td>
+      <td style="background-color: #28a745; color: white; padding: 15px;">학생</td>
+      <td style="background-color: #ffc107; color: black; padding: 15px;">2022.03 ~ 2025.01.09</td>
     </tr>
     <tr>
-      <td><strong>Gachon University</strong></td>
-      <td>학생</td>
-      <td>2025.03 ~ 현재</td>
+      <td style="background-color: #007bff; color: white; padding: 15px;"><strong>Gachon University</strong></td>
+      <td style="background-color: #28a745; color: white; padding: 15px;">학생</td>
+      <td style="background-color: #ffc107; color: black; padding: 15px;">2025.03 ~ 현재</td>
     </tr>
     <tr>
-      <td><strong>JSKOREA Corp.</strong></td>
-      <td>인턴</td>
-      <td>2024.07 ~ 2024.09</td>
+      <td style="background-color: #007bff; color: white; padding: 15px;"><strong>JSKOREA Corp.</strong></td>
+      <td style="background-color: #28a745; color: white; padding: 15px;">인턴</td>
+      <td style="background-color: #ffc107; color: black; padding: 15px;">2024.07 ~ 2024.09</td>
     </tr>
   </tbody>
 </table>
-
----
-
 
 ---
 
