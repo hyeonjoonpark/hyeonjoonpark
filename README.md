@@ -1,34 +1,83 @@
 # hyeonjoonpark (Software Developer)
 ### 끊임없이 고민하고 성장해나가는 개발자가 되고 싶습니다.
 
+<style>
+  body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 20px;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+    font-size: 1em;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    overflow: hidden;
+  }
+
+  th, td {
+    padding: 15px;
+    text-align: center;
+  }
+
+  th {
+    background-color: #6c757d;
+    color: white;
+    text-transform: uppercase;
+  }
+
+  tr {
+    transition: background-color 0.3s;
+  }
+
+  tr:nth-child(even) {
+    background-color: #f8f9fa;
+  }
+
+  tr:hover {
+    background-color: #e2e6ea;
+  }
+
+  td {
+    border-bottom: 1px solid #dee2e6;
+  }
+</style>
+
 ### 경력
 
-<table style="width:100%; text-align: center; border-collapse: collapse;">
+<table>
   <thead>
     <tr>
-      <th style="border: 1px solid #ddd; padding: 8px;">회사명</th>
-      <th style="border: 1px solid #ddd; padding: 8px;">직무</th>
-      <th style="border: 1px solid #ddd; padding: 8px;">기간</th>
+      <th>회사명</th>
+      <th>직무</th>
+      <th>기간</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border: 1px solid #ddd; padding: 8px;"><strong>Busan Software Meister High School</strong></td>
-      <td style="border: 1px solid #ddd; padding: 8px;">학생</td>
-      <td style="border: 1px solid #ddd; padding: 8px;">2022.03 ~ 2025.01.09</td>
+      <td><strong>Busan Software Meister High School</strong></td>
+      <td>학생</td>
+      <td>2022.03 ~ 2025.01.09</td>
     </tr>
     <tr>
-      <td style="border: 1px solid #ddd; padding: 8px;"><strong>Gachon University</strong></td>
-      <td style="border: 1px solid #ddd; padding: 8px;">학생</td>
-      <td style="border: 1px solid #ddd; padding: 8px;">2025.03 ~ 현재</td>
+      <td><strong>Gachon University</strong></td>
+      <td>학생</td>
+      <td>2025.03 ~ 현재</td>
     </tr>
     <tr>
-      <td style="border: 1px solid #ddd; padding: 8px;"><strong>JSKOREA Corp.</strong></td>
-      <td style="border: 1px solid #ddd; padding: 8px;">인턴</td>
-      <td style="border: 1px solid #ddd; padding: 8px;">2024.07 ~ 2024.09</td>
+      <td><strong>JSKOREA Corp.</strong></td>
+      <td>인턴</td>
+      <td>2024.07 ~ 2024.09</td>
     </tr>
   </tbody>
 </table>
+
+---
+
 
 ---
 
