@@ -20,7 +20,7 @@
     <tr>
       <td style="background-color: #007bff; color: white; padding: 15px;"><strong>Gachon University</strong></td>
       <td style="background-color: #28a745; color: white; padding: 15px;">학생</td>
-      <td style="background-color: #ffc107; color: black; padding: 15px;">2025.03 ~ 현재</td>
+      <td style="background-color: #ffc107; color: black; padding: 15px;">2025.03 ~ </td>
     </tr>
     <tr>
       <td style="background-color: #007bff; color: white; padding: 15px;"><strong>JSKOREA Corp.</strong></td>
