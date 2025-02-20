@@ -3,11 +3,32 @@
 
 ### 경력
 
-| 회사명                       | 직무                   | 기간                     |
-|-----------------------------|----------------------|-------------------------|
-| **Busan Software Meister High School** | 학생                   | 2022.03 ~ 2025.01.09   |
-| **Gachon University**       | 학생                   | 2025.03 ~ 현재          |
-| **JSKOREA Corp.**          | 인턴                   | 2024.07 ~ 2024.09       |
+<table style="width:100%; text-align: center; border-collapse: collapse;">
+  <thead>
+    <tr>
+      <th style="border: 1px solid #ddd; padding: 8px;">회사명</th>
+      <th style="border: 1px solid #ddd; padding: 8px;">직무</th>
+      <th style="border: 1px solid #ddd; padding: 8px;">기간</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="border: 1px solid #ddd; padding: 8px;"><strong>Busan Software Meister High School</strong></td>
+      <td style="border: 1px solid #ddd; padding: 8px;">학생</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">2022.03 ~ 2025.01.09</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #ddd; padding: 8px;"><strong>Gachon University</strong></td>
+      <td style="border: 1px solid #ddd; padding: 8px;">학생</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">2025.03 ~ 현재</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #ddd; padding: 8px;"><strong>JSKOREA Corp.</strong></td>
+      <td style="border: 1px solid #ddd; padding: 8px;">인턴</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">2024.07 ~ 2024.09</td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
