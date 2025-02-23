@@ -13,6 +13,11 @@
   </thead>
   <tbody>
     <tr>
+      <td style="background-color: #007bff; color: white; padding: 15px;"><strong>JSKOREA Corp.</strong></td>
+      <td style="background-color: #28a745; color: white; padding: 15px;">인턴</td>
+      <td style="background-color: #ffc107; color: black; padding: 15px;">2024.07 ~ 2024.09</td>
+    </tr>
+    <tr>
       <td style="background-color: #007bff; color: white; padding: 15px;"><strong>Busan Software Meister High School</strong></td>
       <td style="background-color: #28a745; color: white; padding: 15px;">학생</td>
       <td style="background-color: #ffc107; color: black; padding: 15px;">2022.03 ~ 2025.01.09</td>
@@ -21,11 +26,6 @@
       <td style="background-color: #007bff; color: white; padding: 15px;"><strong>Gachon University</strong></td>
       <td style="background-color: #28a745; color: white; padding: 15px;">학생</td>
       <td style="background-color: #ffc107; color: black; padding: 15px;">2025.03 ~ </td>
-    </tr>
-    <tr>
-      <td style="background-color: #007bff; color: white; padding: 15px;"><strong>JSKOREA Corp.</strong></td>
-      <td style="background-color: #28a745; color: white; padding: 15px;">인턴</td>
-      <td style="background-color: #ffc107; color: black; padding: 15px;">2024.07 ~ 2024.09</td>
     </tr>
   </tbody>
 </table>
