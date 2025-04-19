@@ -62,19 +62,16 @@ velog: https://velog.io/@hyeonjoonpark/posts
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-Java                     50 mins             ██████████████████████░░░   86.50 % 
-YAML                     7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Shell Script             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+이번 주에 활동은 없어요.
 
 🔥 에디터들: 
-IntelliJ IDEA            58 mins             █████████████████████████   100.00 % 
+이번 주에 활동은 없어요.
 
 🐱‍💻 프로젝트들: 
-CLIMB_POT_SERVER_V1      58 mins             █████████████████████████   100.00 % 
+이번 주에 활동은 없어요.
 
 💻 운영 체제들: 
-Mac                      58 mins             █████████████████████████   100.00 % 
+이번 주에 활동은 없어요.
 ```
 
 **저는 주로 Java 언어를 사용해요.** 
@@ -90,7 +87,7 @@ Swift                    2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 18/04/2025 12:17:26 UTC
+ Last Updated on 19/04/2025 12:15:28 UTC
 <!--END_SECTION:waka-->
 ---
 <br>
