@@ -77,17 +77,17 @@ velog: https://velog.io/@hyeonjoonpark/posts
 **저는 주로 Java 언어를 사용해요.** 
 
 ```text
-Java                     45 repos            ███████████░░░░░░░░░░░░░░   45.00 % 
-JavaScript               12 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
-TypeScript               9 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.00 % 
-Kotlin                   3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
-Swift                    2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
+Java                     45 repos            ███████████░░░░░░░░░░░░░░   44.55 % 
+JavaScript               12 repos            ███░░░░░░░░░░░░░░░░░░░░░░   11.88 % 
+TypeScript               10 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   09.90 % 
+Kotlin                   3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
+Swift                    2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
 ```
 
 
 
 
- Last Updated on 31/05/2025 12:16:31 UTC
+ Last Updated on 01/06/2025 12:17:37 UTC
 <!--END_SECTION:waka-->
 ---
 <br>
